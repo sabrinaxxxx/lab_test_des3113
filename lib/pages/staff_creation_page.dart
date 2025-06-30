@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 import 'package:random_string/random_string.dart';
-import 'package:flutter_lab_1/service/database.dart';
+import 'package:flutter_lab_sabrina/service/database.dart';
 
 class Staff extends StatefulWidget {
   const Staff({super.key});

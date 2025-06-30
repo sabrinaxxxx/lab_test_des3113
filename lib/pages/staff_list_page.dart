@@ -1,7 +1,7 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_lab_1/pages/staff_creation_page.dart';
-import 'package:flutter_lab_1/service/database.dart';
+import 'package:flutter_lab_sabrina/pages/staff_creation_page.dart';
+import 'package:flutter_lab_sabrina/service/database.dart';
 
 class Home extends StatefulWidget {
   const Home({super.key});
